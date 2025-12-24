@@ -35,7 +35,7 @@ url: "LunafaeGraves.github.io" # the base hostname & protocol for your site, e.g
 github_username:  LunafaeGraves
 
 # Build settings
-theme: minima
+theme: hacked-jekyll
 plugins:
   - jekyll-feed
 
