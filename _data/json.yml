@@ -1,0 +1,34 @@
+
+- key: Name
+  value: Lunafae Graves
+- key: Description
+  value:
+    - Brave
+    - Bold
+    - Confident
+    - Unstoppable
+    - Ready
+  typed: true
+- key: Contact
+  value: email
+  url: mailto:lunafaegraves@gmail.com
+- key: Profiles
+  value:
+    - value: Github
+      url: https://github.com/lunafaegraves
+      newtab: true
+- key: Knowledge
+  value:
+    - Python
+    - Django
+    - C++
+    - C#
+    - JSX
+    - DevOps
+    - CI/CD pipelines
+    - Integrations
+    - Mobile Development/Lifecycles
+- key: Build
+  value: 1.0
+    
+  
